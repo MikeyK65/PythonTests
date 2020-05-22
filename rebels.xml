@@ -1,0 +1,21 @@
+<rebels>
+    <rebel>
+        <firstname>Luke</firstname>
+        <lastname>Skywalker</lastname>
+    </rebel>
+    <rebel>
+        <firstname>Han</firstname>
+        <lastname>Solo</lastname>
+    </rebel>
+    <rebel>
+        <firstname>Admiral</firstname>
+        <lastname>Akbar</lastname>
+    </rebel>
+    <rebel>
+        <firstname>Obi wan</firstname>
+        <lastname>Kenobi</lastname>
+    </rebel>
+    <rebel>
+        <firstname>R2D2</firstname>
+    </rebel>
+</rebels>
